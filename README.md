@@ -2,7 +2,7 @@
 
 # Hi, I'm KongSeok 👋
 
-### 문서에서 근거를 찾고, 평가로 개선하는 AI 개발자
+### 항상 새로운 미래를 지향하는 AI 개발자
 
 **RAG · Document AI · Evaluation**
 

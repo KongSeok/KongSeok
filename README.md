@@ -31,6 +31,10 @@
 
 ## Featured Project
 
+### [sprint-shop-profile-ad-generator](https://github.com/KongSeok/sprint-shop-profile-ad-generator)
+
+Advanced team project · In progress
+
 ### [Public Procurement RAG Assistant](https://github.com/KongSeok/sprint-public-procurement-rag-assistant)
 
 A team project that retrieves information from public procurement documents and generates answers grounded in source evidence.
